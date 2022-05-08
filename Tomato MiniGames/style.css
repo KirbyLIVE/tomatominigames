@@ -1,0 +1,225 @@
+body {
+    margin: 0px;
+}
+.navbar{
+    width: 100%;
+    height: 115px;
+    background-image: url(images/header.png);
+    margin: 0 auto;
+    overflow: hidden;
+    position: fixed;
+}
+.main-view{
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(images/background.png) no-repeat center center;
+    background-size: cover;
+    width: 100%;
+    height: 775px;
+    display: flex;
+    text-align: center;
+}
+.main-view2{
+    width: 100%;
+    height: 300px;
+}
+.p1{
+    font-family: poppins, sans-serif;
+    transition: all .3s;
+    margin-top: 100px;
+    margin-left: 70px;
+    font-size: 1.1rem;
+}
+.p2{
+    font-family: poppins, sans-serif;
+    transition: all .3s;
+    margin-left: 70px;
+    margin-bottom: 5px;
+    font-size: 1.1rem;
+}
+.logo{
+    height: 75px;
+    width: 75px;
+    position: fixed;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.title{
+    position: fixed;
+    width: 406.5px;
+    height: 43.5px;
+    margin-top: 40px;
+    margin-left: 115px;
+}
+.main-txt10_9{
+    font-family: poppins, sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 4rem;
+    margin-left: 300px;
+    margin-top: 300px;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 42px rgb(1, 15, 10), 0 0 82px rgb(1, 26, 17),0 0 92px rgb(1, 19, 13);
+}
+.p3{
+    font-family: poppins, sans-serif;
+    transition: all .3s;
+    margin-top: 5px;
+    margin-left: 70px;
+    font-size: 1.1rem;
+    margin-bottom: 5px;
+}
+.btn1{
+    background-image: url(images/block1.png);
+    border: none;
+    color: white;
+    position: fixed;
+    cursor: pointer;
+    font-family: poppins, sans-serif;
+    margin-top: 37.5px;
+    margin-left: 600px;
+    height: 50px;
+    width: 125px;
+    font-size: 1.5rem;
+}
+.btn1:hover{
+    background-image: url(images/block1hover.png);
+}
+.btn2{
+    background-image: url(images/block1.png);
+    border: none;
+    color: white;
+    position: fixed;
+    cursor: pointer;
+    font-family: poppins, sans-serif;
+    margin-top: 37.5px;
+    margin-left: 750px;
+    height: 50px;
+    width: 125px;
+    font-size: 1.5rem;
+}
+.btn2:hover{
+    background-image: url(images/block1hover.png);
+}
+.btn3{
+    background-image: url(images/block1.png);
+    border: none;
+    color: white;
+    position: fixed;
+    cursor: pointer;
+    font-family: poppins, sans-serif;
+    margin-top: 37.5px;
+    margin-left: 900px;
+    height: 50px;
+    width: 125px;
+    font-size: 1.5rem;
+}
+.btn3:hover{
+    background-image: url(images/block1hover.png);
+}
+.p7{
+    font-family: poppins, sans-serif;
+    transition: all .3s;
+    margin-top: 60px;
+    margin-left: 70px;
+    font-size: 1.1rem;
+}
+.main-view3{
+    width: 100%;
+    height: 1650px;
+    background-color: #24272b;
+}
+.iog_98_76865v{
+    color: white;
+    font-family: poppins, sans-serif;
+    font-size: 3.5rem;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 1em;
+}
+.hr1{
+    width: 50%;
+    margin-bottom: 10px;
+}
+.lobby1png{
+    transition: all .3s;
+    margin-top: 30px;
+    width: 480px;
+    height: 270px;
+    border-radius: 14px;
+    margin-left: 80px;
+    display: block;
+    float: left;
+    margin-right: 30px;
+}
+.lobby1png:hover{
+    transform: scale(1.1);
+}
+.txt-lobby-13{
+    font-family: poppins, sans-serif;
+    padding-left: 150px;
+    font-size: 1.25rem;
+    color: white;
+    margin-top: 100px;
+    margin-bottom: 2px;
+    transition: all .3s;
+}
+.txt-lobby-13:hover{
+    transform: scale(1.1);
+}
+.hr2{
+    width: 50%;
+    margin-bottom: 10px;
+    margin-top: 185px;
+}
+.main-view4{
+    width: 100%;
+    height: 600px;
+}
+.yt7t678{
+    color: #24272b;
+    font-family: poppins, sans-serif;
+    font-size: 3.5rem;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 0.8em;
+}
+.card1{
+    border-radius: 1em;
+    background-color: #24272b;
+    width: 250px;
+    height: 265px;
+    margin-top: 50px;
+    margin: 0 auto;
+    transition: all .3s;
+    align-items: center;
+}
+.card1:hover{
+    transform: scale(0.95);
+}
+.henwithbowtie{
+    height: 125.34px;
+    width: 117;
+    border-radius: 6px;
+    margin-top: 30px;
+    transition: all .3s;
+    margin-left: 57.5px;
+    margin-bottom: 5px;
+}
+.henwithbowtie:hover{
+    box-shadow: 5px 10px #080808;
+}
+.uuuihiugiug{
+    text-align: center;
+    font-size: 1.25rem;
+    margin-top: 10px;
+    color: white;
+    font-family: poppins, sans-serif;
+    margin-bottom: 3px;
+}
+.adminrole{
+    color: red;
+    text-align: center;
+    font-family: poppins, sans-serif;
+    margin-top: 3px;
+    font-size: 1.25rem;
+}
